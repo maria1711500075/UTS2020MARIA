@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "544609228503",
+    "firebase_url": "https://utsmaria-df5e2.firebaseio.com",
+    "project_id": "utsmaria-df5e2",
+    "storage_bucket": "utsmaria-df5e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544609228503:android:f40fb19fc40570d605c292",
+        "android_client_info": {
+          "package_name": "com.asus.uts_amub_ti7a_1711500075_maria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544609228503-v5ir379kflrpbg4nj9fsknbko0htotdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs8fiRlHpPWTJ6wHWfxdvXKIqOHbeAJRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544609228503-v5ir379kflrpbg4nj9fsknbko0htotdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
